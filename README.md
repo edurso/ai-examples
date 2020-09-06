@@ -1,4 +1,4 @@
-# Machine Learning Example Implementations from Various Libraries
+# AI Example Implementations
 
 Examples of Machine Learning and Deep Learning Implementations using SciKit-Learn, Keras, PyTorch, and TensorFlow
 
@@ -7,7 +7,8 @@ Examples of Machine Learning and Deep Learning Implementations using SciKit-Lear
 ### Artificial Intelligence
 
 - A* Search
-- Alpha Beta Pruning
+- MiniMax
+  - Alpha Beta Pruning
 - Combinatorial Search
 - Natural Language Processing
 
@@ -15,10 +16,24 @@ Examples of Machine Learning and Deep Learning Implementations using SciKit-Lear
 
 - Supervised Learning
   - Regression
+    - Linear Regression
+    - Multiple Linear Regression
+    - Polynomial Regression
+    - Non-Linear Regression
   - Classification
+    - Logistic Regression
+    - Decision Trees
+    - _k_ Nearest Neighbors
+    - Support Vector Machine
+    - Naive Bayes
 - Unsupervised Learning
   - Clustering
+    - _k_ Means Clustering
+    - Density Based Clustering
+    - Hierarchial Clustering
   - Dimensionality Reduction
+    - Principal Component Analysis (PCA)
+    - Autoencoder
 
 ### Deep Learning
 
