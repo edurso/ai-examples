@@ -1,6 +1,6 @@
 # AI Example Implementations
 
-Examples of Machine Learning and Deep Learning Implementations using SciKit-Learn, Keras, PyTorch, and TensorFlow
+Examples of Artificial Intelligence, Machine Learning, and Deep Learning Implementations using SciKit-Learn, Keras, PyTorch, and TensorFlow
 
 ## Topics
 
